@@ -1,0 +1,3 @@
+C:\Users\Data\Documents\XNA 4 Tutor\XNA Game\Asteroids\Asteroids\AsteroidsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Data\Documents\XNA 4 Tutor\Asteroids Project Chapter Three\Asteroids\Asteroids\AsteroidsContent\obj\x86\Debug\AsteroidsContent.contentprojResolveAssemblyReference.cache
+C:\Users\Data\Documents\XNA 4 Tutor\Asteroids Project Chapter Four\Asteroids\Asteroids\AsteroidsContent\obj\x86\Debug\AsteroidsContent.contentprojResolveAssemblyReference.cache
